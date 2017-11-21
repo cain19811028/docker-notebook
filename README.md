@@ -1,4 +1,6 @@
-# 線上課程
+# Docker 學習筆記 - 學習管道
+
+## 線上課程
 
 學習中：
 
@@ -8,14 +10,12 @@
 
 * Code School - Try Docker：[https://www.codeschool.com/courses/try-docker](https://www.codeschool.com/courses/try-docker)
 
-
-
-# 書籍
+## 書籍
 
 已購入：
 
-* 松崗：Docker這樣學才有趣：從入門，到玩直播、挖礦（9789572246559）
-* 人民郵電：Docker 容器與容器雲．第２版
+* 松崗：Docker 這樣學才有趣：從入門，到玩直播、挖礦（9789572246559）
+* 人民郵電：Docker 容器與容器雲．第２版（9787115435040）
 * 機械工業：Docker 進階與實戰
 
 
