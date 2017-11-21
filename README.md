@@ -14,9 +14,9 @@
 
 已購入：
 
-* 松崗：Docker 這樣學才有趣：從入門，到玩直播、挖礦（9789572246559）
-* 人民郵電：Docker 容器與容器雲．第２版（9787115435040）
-* 機械工業：Docker 進階與實戰
+* 松崗：Docker 這樣學才有趣：從入門，到玩直播、挖礦（[9789572246559](https://www.tenlong.com.tw/products/9789572246559)）
+* 人民郵電：Docker 容器與容器雲．第２版（[9787115435040](https://book.douban.com/subject/26894736/)）
+* 機械工業：Docker 進階與實戰（[9787111523390](https://book.douban.com/subject/26701218/)）
 
 
 
