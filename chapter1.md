@@ -4,5 +4,5 @@
 
 ~~Docker is the world’s leading software containerization platform.~~
 
-Docker 就是一隻扛著很多貨櫃（Container）的大鯨魚（Platform）。![](/assets/docker.png)
+Docker 就是一隻可以載很多貨櫃（Container）的大鯨魚（Platform）。![](/assets/docker.png)
 
