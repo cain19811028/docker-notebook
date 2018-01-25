@@ -9,7 +9,8 @@
 ## Container 相關
 
 * ps：查看啟動中的 Container
-* run：啟動 Container
+* run：建立一個新的並且直接啟動 Container
+* create：建立一個新的 Container，必須搭配 start 才會啟動
 * start：用 Conainer ID 啟動 Container
 * stop：停用 Container
 * restart：重新啟動 Container
