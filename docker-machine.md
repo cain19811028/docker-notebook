@@ -4,9 +4,3 @@ Docker Machine 是一個讓使用者可以用簡單的指令，在多種平台�
 
 GitHub：[https://github.com/docker/machine](https://github.com/docker/machine)![](/assets/docker_machine.png)
 
-![](/assets/docker_machine.png)
-
-![](/assets/docker_machine.png)
-
-![](/assets/docker_machine.png)
-
