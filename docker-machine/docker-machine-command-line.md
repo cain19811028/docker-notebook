@@ -12,6 +12,8 @@ docker machine restart demo：重啟 docker machine
 
 docker machine ssh demo：連進 docker machine
 
+docker machine ip demo：取得 docker machine 的 IP
+
 docker machine rm demo：刪除 docker machine
 
 docker machine ls：列出所有管理的 docker machine
