@@ -23,12 +23,14 @@
 * network：建立 docker 網路
 
 # Remove all images and containers
+
 ```
 #!/bin/bash
 # Delete all containers
-docker rm $(docker ps -a -q)
+docker rm -f $(docker ps -a -q)
 # Delete all images
 docker rmi -f $(docker images -q)
 ```
+
 
 
