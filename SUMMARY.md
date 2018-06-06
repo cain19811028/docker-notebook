@@ -8,5 +8,4 @@
 * [Docker Machine](docker-machine.md)
   * [常用指令](docker-machine/docker-machine-command-line.md)
 * [Docker CE vs Docker EE](docker-ce-vs-docker-ee.md)
-* [Kubernetes](kubernetes.md)
 
