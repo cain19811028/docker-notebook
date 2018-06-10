@@ -32,5 +32,15 @@ docker rm -f $(docker ps -a -q)
 docker rmi -f $(docker images -q)
 ```
 
+## docker run --restart options
+
+Docker 容器的重啟選項如下：
+
+*  no：default 選項，在容器退出時不重啟容器
+* on-failure：在容器非正常退出時（退出狀態非0），才會重啟容器
+  * on-failure:5，在容器非正常退出時重啟容器，最多重啟5次
+* always：在容器退出時總是重啟容器
+* unless-stopped：在容器退出時總是重啟容器，但是不考慮在 Docker 守護進程啟動時就已經停止了的容器
+
 
 
