@@ -1,6 +1,6 @@
 # Summary
 
-* [學習管道](README.md)
+* [學習筆記](README.md)
 * [Docker](introduction.md)
   * [常用指令](introduction/docker-command-line.md)
 * [Docker Compose](introduction/docker-compose.md)
